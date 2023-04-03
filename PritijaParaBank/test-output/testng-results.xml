@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27537" started-at="2023-04-03T20:02:37Z" finished-at="2023-04-03T20:03:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27537" started-at="2023-04-03T20:02:37Z" finished-at="2023-04-03T20:03:04Z">
+      <class name="PritiTest.Login2Test">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="OpenBrowser" is-config="true" duration-ms="11365" started-at="2023-04-03T20:02:37Z" finished-at="2023-04-03T20:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Loginuser(java.lang.String, java.lang.String)[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="Loginuser" duration-ms="5725" started-at="2023-04-03T20:02:49Z" data-provider="getData" finished-at="2023-04-03T20:02:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tyyyuu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginuser -->
+        <test-method status="PASS" signature="Loginuser(java.lang.String, java.lang.String)[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="Loginuser" duration-ms="1915" started-at="2023-04-03T20:02:55Z" data-provider="getData" finished-at="2023-04-03T20:02:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kjjhh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[33.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginuser -->
+        <test-method status="PASS" signature="Loginuser(java.lang.String, java.lang.String)[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="Loginuser" duration-ms="1922" started-at="2023-04-03T20:02:57Z" data-provider="getData" finished-at="2023-04-03T20:02:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ggff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[44.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginuser -->
+        <test-method status="PASS" signature="Loginuser(java.lang.String, java.lang.String)[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="Loginuser" duration-ms="1840" started-at="2023-04-03T20:02:59Z" data-provider="getData" finished-at="2023-04-03T20:03:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fggh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[55.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginuser -->
+        <test-method status="PASS" signature="Loginuser(java.lang.String, java.lang.String)[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="Loginuser" duration-ms="2002" started-at="2023-04-03T20:03:01Z" data-provider="getData" finished-at="2023-04-03T20:03:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gggfd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginuser -->
+        <test-method status="PASS" signature="ClosechromeBrowser()[pri:0, instance:PritiTest.Login2Test@78b1cc93]" name="ClosechromeBrowser" is-config="true" duration-ms="1411" started-at="2023-04-03T20:03:03Z" finished-at="2023-04-03T20:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosechromeBrowser -->
+      </class> <!-- PritiTest.Login2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
